@@ -8,6 +8,6 @@ No broma, hablando un poco de mi, me gusta mucho el futbol y en general me gusta
 Para el que lea esto, le deseo todos los éxitos este año!! Un saludo
 
 <div align="center">
-  <img src=https://github.com/user-attachments/assets/fdde0f6d-7fe5-4efd-b1b8-aeb5d3b57fc6 width="500" height="500" alt="Demo del proyecto">
+  <img src=https://github.com/user-attachments/assets/fdde0f6d-7fe5-4efd-b1b8-aeb5d3b57fc6 width="500" alt="Demo del proyecto">
 </div>
 
